@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Chatbot Biblioteca</title>
+
+<style>
+
+body{
+font-family: Arial;
+margin:40px;
+}
+
+#chat{
+border:1px solid #ccc;
+padding:20px;
+height:400px;
+overflow:auto;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h2>Chatbot Biblioteca</h2>
+
+<div id="chat"></div>
+
+<br>
+
+<input id="mensaje" style="width:70%">
+<button onclick="enviar()">Enviar</button>
+
+<script>
+
+async function enviar(){
+
+let mensaje = document.getElementById("mensaje").value
+
+let chat = document.getElementById("chat")
+
+chat.innerHTML += "<p><b>Usuario:</b> "+mensaje+"</p>"
+
+let response = await fetch("/chat",{
+method:"POST",
+headers:{"Content-Type":"application/json"},
+body:JSON.stringify({mensaje:mensaje})
+})
+
+let data = await response.json()
+
+chat.innerHTML += "<p><b>Bot:</b> "+data.respuesta+"</p>"
+
+}
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,866 @@
+[
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuál es el horario de atención de la biblioteca en Bogotá?",
+    "respuesta": "R: Lunes a viernes de 7:00 a.m. a 10:00 p.m. y sábados de 8:00 a.m. a 3:00 p.m.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuál es el horario de atención de la biblioteca en Santa Marta?",
+    "respuesta": "R: Lunes a viernes de 8:00 a.m. a 12:00 p.m. y de 2:00 p.m. a 6:00 p.m. Sábados de 8:00 a.m. a 1:00 p.m.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuántos libros tiene la biblioteca?",
+    "respuesta": "R: La biblioteca cuenta con más de 210 mil ejemplares físicos disponibles para la comunidad universitaria.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuántos puestos de lectura hay disponibles?",
+    "respuesta": "R: Hay más de 450 puestos de lectura, estudio y cubículos disponibles.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo busco un libro en el catálogo en línea?",
+    "respuesta": "R: Puedes acceder al catálogo en línea desde la página web del sistema de bibliotecas en el apartado \"Catálogo en línea\". Allí podrás buscar por título, autor, tema o ISBN.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/catalogo-en-linea"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Puedo consultar el catálogo desde mi celular?",
+    "respuesta": "R: Sí, el catálogo en línea es accesible desde cualquier dispositivo con conexión a internet.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/catalogo-en-linea"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo sé si un libro está disponible?",
+    "respuesta": "R: Al buscar el libro en el catálogo en línea, el sistema te mostrará su disponibilidad y ubicación física en la biblioteca.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/catalogo-en-linea"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué hago si no encuentro el libro que necesito?",
+    "respuesta": "R: Puedes solicitar el material a través del servicio de préstamo interbibliotecario o hacer una solicitud de compra de material bibliográfico.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/prestamo-interbibliotecario"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuántos libros puedo prestar al mismo tiempo?",
+    "respuesta": "R: La cantidad de materiales que puedes prestar depende de tu tipo de usuario (estudiante, docente, egresado). Consulta las políticas de préstamo para conocer tu cupo específico.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/politicas-de-prestamo"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Por cuánto tiempo puedo llevar un libro prestado?",
+    "respuesta": "R: El tiempo de préstamo varía según el tipo de material y tipo de usuario. Las políticas de préstamo especifican los plazos exactos para cada categoría.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/politicas-de-prestamo"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo renuevo un préstamo?",
+    "respuesta": "R: Puedes renovar ingresando a la plataforma web con tu usuario, enviando un correo a circulacionyprestamo@utadeo.edu.co o por WhatsApp al +57 3054361781.",
+    "url": "https://api.whatsapp.com/send?phone=573054361781"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuántas veces puedo renovar un préstamo?",
+    "respuesta": "R: La cantidad de renovaciones permitidas depende del tipo de material y está especificada en las políticas de circulación.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/politicas-de-prestamo"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Puedo renovar un libro si alguien más lo ha reservado?",
+    "respuesta": "R: No, si otro usuario ha reservado el material, no podrás renovar el préstamo y deberás devolverlo en la fecha establecida.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué es el préstamo a domicilio?",
+    "respuesta": "R: Es un servicio que permite llevar materiales bibliográficos fuera de la biblioteca para consultarlos en casa.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué necesito para recibir el material a domicilio?",
+    "respuesta": "R: Para la entrega del material, debes presentar tu carné de la Univerisdad.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Todos los materiales se pueden llevar a domicilio?",
+    "respuesta": "R: No todos los materiales están disponibles para préstamo a domicilio. Algunos materiales de referencia, colecciones especiales o alta demanda deben consultarse únicamente en la biblioteca.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/politicas-de-prestamo"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué es el préstamo interbibliotecario?",
+    "respuesta": "R: El préstamo interbibliotecario, es un servicio de cooperación que permite acceder al préstamo de materiales bibliográficos de otras instituciones, locales y nacionales (Educación Superior, Entidades del estado, Bibliotecas Públicas y Centros de Documentación Especializados), con el fin de resolver las necesidades de información de la comunidad tadeísta.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/prestamo-interbibliotecario"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué tipo de material puedo solicitar por préstamo interbibliotecario?",
+    "respuesta": "R: Únicamente se puede solicitar material identificado como libro.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/prestamo-interbibliotecario"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo solicito un préstamo interbibliotecario?",
+    "respuesta": "R: Debes verificar primero que el material no esté disponible en la biblioteca Tadeo, luego realizar la solicitud a través de los canales oficiales del servicio de préstamo interbibliotecario.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Tiene algún costo el préstamo interbibliotecario?",
+    "respuesta": "R: Para la comunidad tadeísta generalmente no tiene costo, pero debes consultar las condiciones específicas del servicio.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cules son las condiciones del préstamo interbibliotecario?",
+    "respuesta": "El usuario podrá solicitar en préstamo externo 3 libros.\nÚnicamente se puede solicitar material identificado como libro.\n\nDiligenciar todos los datos solicitados en el formulario de préstamo interbibliotecario.\n\nRevise el estado de su solicitud a través de su cuenta en el catálogo en línea. \n\nEl material debe ser entregado en la fecha que le indique el funcionario de circulación y préstamo\n\nServicio dirigido a estudiantes de pregrado y postgrado, profesores, investigadores y funcionarios de la Universidad.\n\nLa biblioteca prestamista determinará el período de préstamo y la cantidad de material, de acuerdo a su reglamento interno",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué es el servicio de salas?",
+    "respuesta": "R: El objetivo de este servicio es facilitar a los usuarios espacios adecuados y herramientas tecnológicas de apoyo al trabajo en equipo, el aprendizaje y entretenimiento, con fines académicos ligados a actividades de estudio e investigación. Podrán hacer uso de este servicio los miembros de la comunidad Tadeísta, la condición de usuario se acredita a través del carné institucional el cual es personal e intransferible..",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/solicitud-de-salas"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo reservo una sala de estudio?",
+    "respuesta": "R: Puedes solicitar salas a través del apartado \"Solicitud de salas\" en la página web del sistema de bibliotecas.",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=-4HJLoOSoEOaOTMy_FTXdAgVx15ytnRAhSJBSFACn1NUMldTNkVTVFBFSFBYRjRWMEc3RUZYV1ZWSS4u"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo reservo una plaza o piso de biblioteca?",
+    "respuesta": "R: Puedes solicitar salas a través del apartado \"Solicitud de plaza o piso\" en la página web del sistema de bibliotecas.",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=-4HJLoOSoEOaOTMy_FTXdAgVx15ytnRAhSJBSFACn1NURTIzSU41OEVDVjBSQlYxQkJZVjFEMTdBSS4u"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Con cuánta anticipación debo reservar una sala?",
+    "respuesta": "R: Esto depende de la disponibilidad, pero se recomienda hacerlo con al menos 24 horas de anticipación.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cules son los espacio de biblioteca?",
+    "respuesta": "R:  TERCER PISO\n \n\n En el tercer piso encontrará los espacios idóneos para trabajo colaborativo, con capacidad para 318 personas aproximadamente.\n\nCuenta con 6 computadores para consulta de herramientas de búsqueda (catálogo y descubridor).\n\nDispone de espacios para exposiciones, eventos culturales, talleres, muestras artísticas y conversatorios.\n\nCuenta con 2 salas de estudio especializadas (Idiomas y Cómic)\n\nEl tercer piso es un espacio libre para consumo de snacks y bebidas, cuidando de no dañar los equipos y material bibliográfico.\n\nCUARTO PISO\n \n\nEn el cuarto piso encontrará espacios adecuados para trabajo individual, con capacidad de 300 personas aproximadamente.\n\nLa biblioteca pone a disposición de los usuarios  152 cubículos para uso individual.\n\nCuenta con 26 computadores para consulta de herramientas de búsqueda\n\nCuenta con 5 computadores para consulta de herramientas de catálogo.\n\nCuenta con 2 salas de estudio especializadas (Cine y Play room)",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cules es la sala play room?",
+    "respuesta": "R: Sala Play Room es una de nuestras salas de trabajo adecuada para pasar tiempo con amigos o en individual, encuentras un catálogo de videojuegos entre ellos Mortal Kombat y FC25, juegos de mesa: Tío Rico, Monopoly, y muchos más.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/solicitud-de-salas"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cules es la sala  de cine?",
+    "respuesta": "R: Sala Cine es una de nuestras salas de trabajo donde encontrarás nuestra colección de películas de diversos géneros: Comedia, drama, documental, cine colombiano, ciencia ficción, romance, bélico, terror y más.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/solicitud-de-salas"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cules es la plaza de idiomas?",
+    "respuesta": "R: Plaza idiomas es una de nuestras plazas disponibles, el espacio perfecto para conversatorios con autor/a, clubes de conversación, zona de trabajo compartido o clases, un lugar amplio con acceso a material bibliográfico, computador y pantalla.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/solicitud-de-salas"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cules es la plaza de exposiciones?",
+    "respuesta": "R: Plaza de exposiciones ubicada en el tercer piso de la Biblioteca, lugar para muestras artísticas y conversatorios con autores, un espacio para trabajar individualmente o en conjunto, puedes reservar este espacio para eventos académicos o torneos de juegos.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/solicitud-de-salas"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué es el servicio de impresión?",
+    "respuesta": "R: \"Este servicio de impresión se implementa para mejorar la experiencia del estudiante a través de un sistema Pull Print. Los documentos pueden enviarse a imprimir desde los computadores de la universidad y desde su equipo personal o dispositivo móvil.\"",
+    "url": "https://www.utadeo.edu.co/es/link/estudiantes/92/servicio-de-impresión"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué es esl servicio WIFI?",
+    "respuesta": "R: \"El sistema de Bibliotecas ofrece acceder a nuestro servicio de WiFi gratuito y rápido para nuestros usuarios para estudiar, investigar o simplemente navegar. ¡Disfruta de una conexión estable y segura en nuestras instalaciones!.\"",
+    "url": "https://entra.utadeo.edu.co/sites/intranet/files/content/news/field-uti-attach/manual_conexion_wifi_utadeo.pdf"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué son las dispensadora de snacks y café?",
+    "respuesta": "R: \"Recarga tu energía con nuestro servicio de máquina dispensadora de snacks y café que te ofrece una variedad de opciones deliciosas para acompañar tus sesiones de estudio, disfruta bebidas energizantes y más.\"",
+    "url": "https://my.matterport.com/show/?m=zzvCj57cHfp"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué pasa si no devuelvo un libro a tiempo?",
+    "respuesta": "R: Se aplicarán sanciones según las políticas establecidas, que pueden incluir suspensión del servicio de préstamo.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/sanciones"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo obtengo mi paz y salvo de biblioteca?",
+    "respuesta": "R: Debes verificar que no tengas préstamos pendientes ni sanciones activas. Puedes consultar tu situación en la sección \"Sanciones y Paz y salvos\".",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/paz-y-salvos"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Puedo graduarme si tengo una sanción de biblioteca?",
+    "respuesta": "R: No, necesitas estar a paz y salvo con la biblioteca para poder realizar trámites de grado.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/paz-y-salvos"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué hago si perdí un libro de la biblioteca?",
+    "respuesta": "R: Debes reportarlo inmediatamente y seguir el procedimiento establecido que puede incluir reposición del material o pago de su valor.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/paz-y-salvos"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuál es el valor de las sanciones en biblioteca?",
+    "respuesta": "R: Debes reportarlo inmediatamente y seguir el procedimiento establecido que puede incluir reposición del material o pago de su valor.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/sanciones?qt-field_collection_quicktabs=0#qt-field_collection_quicktabs"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo puede conocer el valor de la multa generada en Bibliteca?",
+    "respuesta": "R: Puede conocer el valor de la multa generada en el sistema de las siguientes manera Ingresando a través del Sistema de Descubrimiento EDS, en Iniciar Sesión, posteriormente revisar la parte superior en el enlace de tarifas.\n\n-Por teléfono al PBX 2427030 Ext. 2770\n\n-Por Chat ingresando a Pregúntenos en línea\n\n-Por WhatsApp al 305 4361780 o al 305 4361781.\n\n-Personalmente en el punto de circulación y préstamo en el tercer piso de la Biblioteca principal con su carné, e igualmente en las otras sedes del Sistema de Bibliotecas..",
+    "url": "https://smartkey.xertica.com/cloudkey/a/utadeo.edu.co/user/login?namespace=utadeo.edu.co"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo pago una sanción?",
+    "respuesta": "R: Para realizar el pago de una sanción:\nDiríjase a la biblioteca y solicite el recibo de pago de la multa, en el punto de Circulación y préstamo del tercer piso, presentando su carné.\n\nEn caso de no poder acercarse a solicitar el recibo, personalmente puede:\n\n-Solicitarlo llamando al PBX 242 7030 Ext. 2770\n\n-Escribiendo al correo electrónico de Circulación y préstamo circulacionyprestamo@utadeo.edu.co\n\n-Escribiendo un mensaje a nuestras líneas de WhatsApp 305 4361780 o al 3054361781.\n\n-A través del chat en línea en nuestra página web",
+    "url": "https://www.utadeo.edu.co/es/pagos-en-linea"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Los egresados pueden usar la biblioteca?",
+    "respuesta": "R: Sí, los egresados tadeístas tienen acceso a varios servicios de la biblioteca.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué servicios específicos hay para egresados?",
+    "respuesta": "R: Los egresados pueden acceder a consulta en sala, bases de datos (según disponibilidad), y otros servicios especificados en \"Servicios para egresados\".",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/servicios-para-egresados"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Los egresados pueden llevar libros prestados a domicilio?",
+    "respuesta": "R: Las condiciones de préstamo para egresados están especificadas en las políticas correspondientes y pueden tener restricciones diferentes a las de estudiantes activos.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/servicios-para-egresados"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Personas externas pueden usar la biblioteca?",
+    "respuesta": "R: Sí, existe un servicio para usuarios externos con condiciones específicas: \n\nServicios ofrecidos a nuestros usuarios externos:\n-Uso de los espacios físicos de la Biblioteca General de la Universidad Jorge Tadeo Lozano. \n\n-Uso de los materiales bibliográficos para consulta de información y lectura en sala.\n\n-Uso de las colecciones y salas especiales de la Biblioteca General, incluyendo la Sala Infantil.\n\n-Participación en eventos públicos culturales desarrollados por el Sistema de Bibliotecas.\n\n-Asesoría en el uso de servicios, espacios y recursos por parte del equipo de trabajo de la Biblioteca.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/servicios-para-usuarios-externos"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué necesito para registrarme como usuario externo?",
+    "respuesta": "R: Debes consultar los requisitos específicos en la sección \"Servicios para usuarios externos\" que puede incluir documentación y posibles costos.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/servicios-para-usuarios-externos"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo publico mi trabajo de grado en el repositorio?",
+    "respuesta": "R: Puedes consultar el proceso en la sección \"Cómo publicar en el Repositorio\" donde encontrarás los pasos y requisitos.",
+    "url": "https://expeditiorepositorio.utadeo.edu.co/page/howtopublish"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué es el repositorio Expeditio?",
+    "respuesta": "R: Es el repositorio institucional de la Universidad de Bogota Jorge Tadeo Lozano es donde se almacenan y difunden los productos académicos e investigativos de la comunidad universitaria.",
+    "url": "https://expeditiorepositorio.utadeo.edu.co/"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Hay asesoría para trabajos de grado?",
+    "respuesta": "R: Sí, la biblioteca ofrece \"Asesoría para trabajos de grado y artículo académico\" que puedes solicitar.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/asesoria-para-trabajos-de-grado-y-articulo-academico"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo accedo a las bases de datos desde casa?",
+    "respuesta": "R: Debes ingresar con tu usuario institucional a través de la plataforma web de la biblioteca. Algunas bases de datos requieren acceso remoto configurado.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/todas-las-bases-de-datos-0"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué bases de datos tiene disponibles la biblioteca?",
+    "respuesta": "R: La biblioteca cuenta con múltiples bases de datos especializadas por áreas. Consulta el listado completo en la sección de recursos electrónicos.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/todas-las-bases-de-datos-0"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Hay capacitaciones sobre cómo usar las bases de datos?",
+    "respuesta": "R: Sí, la biblioteca ofrece capacitaciones en recursos electrónicos que puedes solicitar. También hay jornadas de formación bibliotecaria programadas.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/formacion-de-usuarios"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Puedo descargar artículos completos de las bases de datos?",
+    "respuesta": "R: Depende de la licencia de cada base de datos. Algunas permiten descarga completa, otras solo resúmenes o vistas limitadas.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/formacion-de-usuarios"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué es el servicio de solicitud de documentos?",
+    "respuesta": "R: Es un servicio que te permite solicitar artículos, capítulos de libros u otros documentos que no estén disponibles físicamente en la biblioteca.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/solicitud-de-documentos"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuánto tarda en llegar un documento solicitado?",
+    "respuesta": "R: El tiempo de entrega varía según la disponibilidad del documento y la institución proveedora, pero generalmente se informa al usuario el plazo estimado.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/solicitud-de-documentos"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Tiene algún costo solicitar documentos?",
+    "respuesta": "R: Para la comunidad tadeísta este servicio generalmente es gratuito, pero debes verificar las condiciones específicas.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/solicitud-de-documentos"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué es TadeoMetrics?",
+    "respuesta": "R: Es un servicio especializado de apoyo al investigador que incluye métricas de producción académica, análisis de impacto y visibilidad de investigaciones.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/apoyo-al-investigador-tadeo-metrics"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué es la Maleta Viajera?",
+    "respuesta": "R: Es un servicio que lleva colecciones bibliográficas temáticas a diferentes espacios o comunidades de la universidad.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/maleta-viajera"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Puedo sugerir la compra de material bibliográfico?",
+    "respuesta": "R: Sí, existe un formulario de \"Compra de material\" donde puedes sugerir títulos que consideres importantes para la colección.",
+    "url": "Compra de material. | Universidad de Bogotá Jorge Tadeo Lozano"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué es Acento Tadeísta?",
+    "respuesta": "R: Es un servicio o publicación de la biblioteca que puedes consultar en la sección correspondiente de la página web.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/acento-tadeista"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Hay tutorías en lectoescritura?",
+    "respuesta": "R: Sí, la biblioteca ofrece servicios de tutorías en lectoescritura para apoyar el desarrollo de habilidades académicas.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/tutorias-en-lectoescritura"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿BiblioExpress Utadeo?",
+    "respuesta": "R: BiblioExpress es un innovador servicio que entrega libros y material bibliográfico directamente a los docentes en sus aulas, en tiempo real. Está diseñado para apoyar la labor pedagógica y optimizar el tiempo de enseñanza.",
+    "url": "https://wa.link/eek1q6"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué es Buzón de devolución?",
+    "respuesta": "R: En el tercer piso de la Biblioteca Utadeo se encuentra ubicado el Buzón de Devolución.\nEste servicio facilita a nuestros usuarios la devolución de libros en los horarios no hábiles de la Biblioteca.\nSin demoras y adaptado a tu tiempo.",
+    "url": "https://my.matterport.com/show/?m=zzvCj57cHfp"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué son las novedades bibliograficas?",
+    "respuesta": "Novedades Bibliográficas: últimas adquisiciones de la Biblioteca",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/novedades-bibliograficas"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué son las jornadas de formación bibliotecaria?",
+    "respuesta": "R: Son espacios programados donde se capacita a la comunidad universitaria en el uso de recursos, servicios y herramientas bibliotecarias.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/formacion-de-usuarios"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo me inscribo a las capacitaciones?",
+    "respuesta": "R: Puedes consultar el calendario de actividades en la página web y seguir el proceso de inscripción indicado para cada actividad.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/formacion-de-usuarios"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Las capacitaciones son obligatorias?",
+    "respuesta": "R: Algunas pueden ser requeridas por programas académicos específicos, pero en general son voluntarias y abiertas a toda la comunidad.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/formacion-de-usuarios"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Las biblioteca ofrecede Diplomados?",
+    "respuesta": "\"Conoce nuestra oferta académica correspondiente a diplomados y/o cursos, con el propósito de apoyar la formación complementaria en aspectos prácticos, teóricos y funcionales en áreas del conocimiento de gran relevancia para la sociedad.\"Reintentar",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/diplomados-y-cursos"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué apoyo hay para investigadores?",
+    "respuesta": "R: La biblioteca ofrece servicios como TadeoMetrics, directorio de investigadores, formación de usuarios especializada, herramientas de investigación y apoyo en ciencia abierta.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/apoyo-al-investigador-tadeo-metrics"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué es ciencia abierta?",
+    "respuesta": "R: Es un movimiento que promueve el acceso libre y colaborativo al conocimiento científico. La biblioteca apoya esta iniciativa con servicios específicos.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo puedo aumentar la visibilidad de mis investigaciones?",
+    "respuesta": "R: El servicio TadeoMetrics te puede asesorar sobre estrategias para aumentar el impacto y visibilidad de tus publicaciones académicas.",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/apoyo-al-investigador-tadeo-metrics"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¡Qué son las Asesoría para trabajos de grado?",
+    "respuesta": "R: \"La asesoría para trabajos de grado está diseñado para estudiantes que se encuentran en el proceso de desarrollo de proyectos de grado o la elaboración de artículos académicos, proporcionamos apoyo para que alcances el éxito en tus proyectos académicos.\"Reintentar",
+    "url": "https://www.utadeo.edu.co/es/link/sistema-de-bibliotecas/104046/asesoria-para-trabajos-de-grado-y-articulo-academico"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuál es el correo electrónico de la biblioteca?",
+    "respuesta": "R: Para circulación y préstamo: circulacionyprestamo@utadeo.edu.co",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Hay atención por WhatsApp?",
+    "respuesta": "R: Sí, puedes contactar a la biblioteca por WhatsApp al +57 3054361781.",
+    "url": "https://api.whatsapp.com/send?phone=573054361781"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿La biblioteca tiene redes sociales?",
+    "respuesta": "R: Sí, puedes seguir a la biblioteca en sus redes sociales oficiales para estar al tanto de novedades y actividades.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Dónde consulto las novedades bibliográficas?",
+    "respuesta": "R: En la sección \"Novedades bibliográficas\" de la página web encontrarás las últimas adquisiciones de la biblioteca.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué hago si tengo un problema o sugerencia sobre el servicio?",
+    "respuesta": "R: Puedes contactar directamente a través de los canales de atención (correo, WhatsApp, presencial) o hacer llegar tu sugerencia a través de los mecanismos de retroalimentación de la biblioteca.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿ Asesoría en la construcción del estado del arte?",
+    "respuesta": "R: Te orientamos en la búsqueda y análisis de estudios previos relacionados con tu tema de investigación. A través del uso de bases de datos especializadas y herramientas de inteligencia artificial, te ayudamos a mejorar tus estrategias de búsqueda para identificar información relevante y confiable.",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=-4HJLoOSoEOaOTMy_FTXdGqSuOu6DYVGpjf1kxBaaWJUOUlDSk9VUUZYNUg3QTc0RzUwWUJWUFpIOC4u&embed=true"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿ Apoyo en la Estructuración de Artículos Académicos?",
+    "respuesta": "R: Si necesitas organizar tu artículo de investigación, te ofrecemos orientación sobre la estructura general, las secciones clave, el manejo adecuado de citas y referencias, y la adaptación a los requisitos editoriales de revistas académicas. No definimos parámetros de presentación ni realizamos correcciones de estilo, pero te guiamos en el proceso de estructuración y cumplimiento de normativas.",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=-4HJLoOSoEOaOTMy_FTXdGqSuOu6DYVGpjf1kxBaaWJUOUlDSk9VUUZYNUg3QTc0RzUwWUJWUFpIOC4u&embed=true"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Uso Ético de la Información y Citación en Normas APA 7?",
+    "respuesta": "R: Te brindamos orientación sobre cómo citar y referenciar fuentes correctamente de acuerdo con las normas APA 7. Nuestro enfoque es ayudarte a comprender las buenas prácticas de citación y evitar el plagio académico.",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=-4HJLoOSoEOaOTMy_FTXdGqSuOu6DYVGpjf1kxBaaWJUOUlDSk9VUUZYNUg3QTc0RzUwWUJWUFpIOC4u&embed=true"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Gestión de Referencias Bibliográficas con Mendeley o Zotero?",
+    "respuesta": "R: Aprende a utilizar herramientas como Mendeley o Zotero para gestionar tus referencias bibliográficas de manera automática. Te enseñamos a almacenar, organizar y citar fuentes de manera eficiente para facilitar la elaboración de tu trabajo académico.",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=-4HJLoOSoEOaOTMy_FTXdGqSuOu6DYVGpjf1kxBaaWJUOUlDSk9VUUZYNUg3QTc0RzUwWUJWUFpIOC4u&embed=true"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿ Uso de Turnitin para la Integridad Académica?",
+    "respuesta": "R: Te explicamos cómo utilizar Turnitin para verificar la originalidad de tu trabajo y evitar el plagio. Te orientamos en la interpretación del informe de similitud y en el uso adecuado de esta herramienta dentro de los principios de integridad académica",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=-4HJLoOSoEOaOTMy_FTXdGqSuOu6DYVGpjf1kxBaaWJUOUlDSk9VUUZYNUg3QTc0RzUwWUJWUFpIOC4u&embed=true"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Identificación de Revistas Académicas para Publicación?",
+    "respuesta": "R: Te ayudamos a explorar opciones de revistas académicas que se ajusten a tu área de estudio y temática de investigación. Nuestro servicio de orientación te permite identificar revistas indexadas y evaluar factores como impacto, alcance y criterios de publicación.",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=-4HJLoOSoEOaOTMy_FTXdGqSuOu6DYVGpjf1kxBaaWJUOUlDSk9VUUZYNUg3QTc0RzUwWUJWUFpIOC4u&embed=true"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué debo hacer para ingresar a la biblioteca?",
+    "respuesta": "Presente su carné que lo acredite como Tadeísta: estudiante, funcionario, docente, directivo, egresado, usuario externo.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "Mi trabajo de grado es confidencial. ¿Debo subirlo al Repositorio?",
+    "respuesta": "Si, todos los trabajos de grado deben subirse al Repositorio, si es confidencial debe aportar en el envío el formato de autorización de publicación de forma confidencial dispuesto en el enlace  https://expeditiorepositorio.utadeo.edu.co/page/howtopublish de está manera garantizamos que se conserve una copia del trabajo de grado, sin que este al acceso de terceros.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "Son varios autores del trabajo de grado ¿Todos deben subir el trabajo de grado al Repositorio?",
+    "respuesta": "No, lo debe subir un solo autor mencionando a todos los autores participantes del trabajo de grado, sin embargo todos los autores deben firmar de puño y letra el formato de autorización de publicación.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Hasta cuándo tengo plazo para subir el trabajo de grado?",
+    "respuesta": "La Biblioteca no tiene límites de tiempo para recibir los trabajos de grado a través del Repositorio Institucional, sin embargo el estudiante debe seguir estrictamente las recomendaciones que haga su Facultad con el fin de cumplir el cronograma propuesto.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo presento mi trabajo de grado al Repositorio?",
+    "respuesta": "Debe enviar en un solo envío al Repositorio un documento digital preferiblemente en PDF, acompañado del formato de autorización de publicación debidamente diligenciado, de la misma manera los documentos adjuntos que complementen el trabajo de grado, el trabajo de grado es un documento que debe estar construido siguiendo las recomendaciones del director de trabajo de grado, sin embargo como sugerencia la Biblioteca recomienda tener en cuenta el instructivo para la presentación y entrega de trabajos de grado. Más información en: https://expeditiorepositorio.utadeo.edu.co/page/howtopublish",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo enviar un trabajo de grado o tesis al Repositorio Institucional?",
+    "respuesta": "Visite el enlace https://expeditiorepositorio.utadeo.edu.co/page/howtopublish para encontrar el instructivo de envío de documentos al Repositorio, tambien el instructivo para la presentación y entrega de trabajos de grado, así mismo encontrará los formatos de autorización de publicación que deberá aportar al momento de enviar su tesis o trabajo de grado.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuál es el horario de la Biblioteca General?",
+    "respuesta": "El horario es de Lunes - Viernes 6:00 a.m. - 9:00 p.m.\n\nSábados 7:00 a.m. - 4:00 p.m.\n\nJornada continua.\n\nMás información",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Los usuarios Externos pueden ingresar a la Biblioteca?",
+    "respuesta": "Sí, usuarios de otras universidades ingresan con una Carta  de Presentación de su Biblioteca.\n\nLos usuarios afiliados a la biblioteca de la Luis Ángel Arango deben presentar el carné que los acredite. \n\nUsuarios externos que hayan solicitado acceso de cortesía de  la biblioteca UJTL presentan dicha carta. \n\nMás información",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo me registro en la Biblioteca?",
+    "respuesta": "Presente su carné que lo acredite como Tadeísta en Circulación y Préstamo de la Biblioteca, para realizar el registro usted debe proporcionar sus datos: dirección, teléfonos, mail institucional, etc.\n\nMás información.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/prestamos?qt-field_collection_quicktabs=1#qt-field_collection_quicktabs"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo me registro si soy egresado?",
+    "respuesta": "Diligencie el Formato de Registro de Egresados, adjunte una fotografía 3x4, copia de su carné vigente de egresado y copia de su cédula de ciudadanía.\n\nEntregue la documentación en el tercer piso de la Biblioteca en Circulación y Préstamo.\n\nMás información",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/prestamos?qt-field_collection_quicktabs=1#qt-field_collection_quicktabs"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo pido un paz y salvo?",
+    "respuesta": "El paz y salvo para grado lo tramita directamente la facultad.\n\nEl paz y salvo de retiro para funcionarios: se debe solicitar la planilla para el trámite en gestión humana y acercarse personalmente a la Biblioteca para la firma.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/paz-y-salvos"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo envío una sugerencia, queja o felicitación?",
+    "respuesta": "Contáctenos por correo electrónico o ingresa aquí y Déjanos un mensaje",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/dejanos-un-mensaje"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿A través de qué otros medios me puedo comunicar con la Biblioteca?",
+    "respuesta": "A través del Chat, ingrese aquí\n\nA través del catálogo en línea Comuníquese con nosotros\n\nPara comunicarse con otras sedes ingrese aquí\n\nPara contactarse por correo electrónico ingrese aquí\n\nNuestro PBX (+57 1) 242 7030 Ext. 1770\n\nPersonalmente acercándose al Módulo 21 en el tercer y cuarto piso.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/preguntenos-en-linea-1"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué debo hacer para solicitar libros en préstamo?",
+    "respuesta": "Debe estar registrado en la biblioteca, no tener sanciones y presentar su carné institucional que lo acredite como Tadeísta.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/prestamos"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Si soy egresado puedo retirar libros?",
+    "respuesta": "Sí, puede retirar libros pero debe estar registrado. Consulte las condiciones de registro y las",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/prestamos"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuántos libros puedo solicitar en préstamo?",
+    "respuesta": "Depende del perfil Tadeísta que tenga, consulte las políticas de préstamo en nuestra página web.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué tipo de colecciones tiene la biblioteca?",
+    "respuesta": "La biblioteca cuenta con más de 200.000 volúmenes distribuidos en todas sus sedes y posee colecciones abiertas y cerradas.\n\nEn las colecciones abiertas se encuentran los libros de préstamo externo como la colección general y la colección Jorge Luis Facuseh David y  libros de referencia que son de consulta interna.\n\nEn las colecciones cerradas se encuentra material especial como Colección de Reserva, Colección Ramón de Zubiría, Colección Virgilio Barco, Colección Rodolfo Llinás y Colección Instituto Confucio que son de consulta interna.\n\nEl material de hemeroteca es de consulta interna como revistas, periódicos y tesis  y material especial de préstamo como videos y CD-ROM.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/colecciones"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Los libros de la Colección de Reserva tienen préstamo?",
+    "respuesta": "Sí,  se prestan por 3 horas para consulta interna o copias revise las políticas de préstamo, en nuestra página web.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Con qué Bibliotecas tenemos convenio?",
+    "respuesta": "Tenemos convenio con la mayoría de las Bibliotecas de las Instituciones de Educación Superior en Bogotá y las principales en el país, con centros de documentación de Ministerios, Bibliotecas especializadas y convenios internacionales.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/prestamo-interbibliotecario"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "Si necesito un libro de otra biblioteca ¿qué debo hacer para solicitarlo en préstamo?",
+    "respuesta": "Debe estar registrado en la biblioteca y conocer las condiciones de préstamo interbibliotecario.\n\nLuego ingrese al  Catálogo de la biblioteca, al hacer clic en solicitudes  en línea, seleccione Préstamo Interbibliotecario y diligencie todo el formulario, recuerde que el nombre de usuario es su número de identificación.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/prestamo-interbibliotecario"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo sé, si llegó el material que solicité por préstamo interbibliotecario?",
+    "respuesta": "Una vez llegue a nuestra biblioteca el material solicitado, el usuario será notificado a través de correo institucional.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Puedo renovar los libros de préstamo interbibliotecario?",
+    "respuesta": "No, si requiere el material por más tiempo del proporcionado por la institución prestamista, debe devolverlo en la fecha establecida y realizar nuevamente la solicitud de préstamo interbibliotecario.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/prestamo-interbibliotecario"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Puedo solicitar libros de las sedes Biblioteca Museo Carlos Lleras Restrepo, la seccional caribe Cartagena y Santa Marta?",
+    "respuesta": "Sí, para realizar la solicitud de libros de otras sedes el trámite se realiza mediante préstamo interbibliotecario nacional.\n\nDebe estar registrado en la biblioteca y conocer las condiciones de préstamo.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/prestamo-interbibliotecario"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué debo hacer si requiero consultar en otra biblioteca?",
+    "respuesta": "Solicite una Carta de Presentación a través de la página web de la Biblioteca y/o acérquese a Circulación y Préstamo donde la carta será entregada inmediatamente.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/prestamo-interbibliotecario"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Si pierdo el carné que debo hacer para retirar libros?",
+    "respuesta": "Acérquese a Circulación y Préstamo, presente el denuncio por pérdida o robo,  el recibo de pago del semestre vigente y un documento de identificación para acceder al préstamo de material durante un mes. Tramite su carné lo antes posible.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuál es mi nombre de usuario para el catalogo en línea?",
+    "respuesta": "El nombre de usuario es su Número de identificación (tarjeta de identidad, cédula, cédula de extranjería, etc.)\n\nEs importante que cuando haga cambio de tarjeta de identidad a cédula se acerque a circulación y préstamo y realice la respectiva actualización presentando su carné.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuál es la clave para renovar?",
+    "respuesta": "Solicite la clave de renovación en Circulación y Préstamo presentando su carné que lo acredite como Tadeísta.\n\nCon esta clave puede revisar su cuenta en la Biblioteca, renovar  libros, reservar libros, solicitar búsquedas especializadas, solicitar préstamo interbibliotecario, actualizar sus datos, entre otros.  Estas opciones las encuentra  en el catálogo en línea  a través de Mi cuenta  y solicitudes  en línea.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Por qué medios puedo Renovar mis préstamos?",
+    "respuesta": "Por teléfono comunicándose al PBX 2427030 Ext. 2770\n\nPor el Catálogo en línea en Mi cuenta.\n\nPor Chat ingresando a Pregúntenos en línea \n\nPersonalmente en circulación y préstamo con su carné.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Puedo Renovar los libros por internet?",
+    "respuesta": "Sí, debe ingresar al Catálogo en línea a través de Mi cuenta, luego selecciona Renovar Materiales e ingresa  su Nombre de usuario (número de identidad)  y su clave, selecciona los libros que necesita renovar y el sistema le da la nueva fecha de entrega. Verifique  las políticas de préstamo, en nuestra página web.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Porque el sistema no me permite renovar un libro?",
+    "respuesta": "No se puede renovar el material cuando:\n\n-           Ya superó el límite de renovaciones, consulte las políticas de préstamo.\n\n-           Otro usuario reservó el libro que usted tiene en préstamo.\n\n-           El libro está vencido.\n\n-           Su registro tiene multa de otro material.\n\nEn cualquier caso comuníquese con nosotros al PBX 2427030 Ext. 2770 o acercarse a Circulación y Préstamo con el material bibliográfico para verificar su estado de cuenta.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo hago para saber si tengo multa y/o conocer la fecha de vencimiento de los libros?",
+    "respuesta": "A través del catálogo en línea, seleccione Mi cuenta, digite su número de identificación y la clave.\n\nPor teléfono al PBX 2427030 Ext. 2770\n\nPor Chat ingresando a Pregúntenos en línea \n\nPersonalmente en circulación y préstamo con su carné.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo hago para reservar un libro que está en préstamo?",
+    "respuesta": "Debe  buscar el libro en el catálogo de la biblioteca y al lado izquierdo aparece la opción efectuar reserva, diligencia todos los campos.  Esta opción la encuentra  en el catálogo en línea  a través de Mi cuenta",
+    "url": "http://unicornio.utadeo.edu.co/uhtbin/cgisirsi/x/0/x/1/488/X/BLASTOFF"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Por cuánto tiempo me reservan el libro?",
+    "respuesta": "Los libros se reservan por 2 días hábiles. Si pasado ese tiempo no reclama el libro solicitado este deja de estar a su nombre y pasa a colección general nuevamente.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Puedo reservar un libro cuando no está en préstamo?",
+    "respuesta": "Sí, debe  buscar el libro en el catálogo de la biblioteca y al lado izquierdo aparece la opción efectuar reserva, diligencia todos los campos. Esta opción la encuentra  en el catálogo en línea  a través de Mi cuenta\n\nLos libros se reservan por 2 días hábiles. Si pasado ese tiempo no reclama el libro solicitado este deja de estar a su nombre y pasa a colección general nuevamente.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo se si ya está disponible la reserva que hice de un libro?",
+    "respuesta": "Ingrese al Catálogo en línea y en Mi cuenta, podrá verificar si está disponible su solicitud, o comuníquese con nosotros al PBX 2427030 Ext. 2770.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Puedo consultar las bases de datos fuera de la universidad?",
+    "respuesta": "La mayoría de las bases de datos se pueden consultar desde cualquier lugar del mundo, ingresando con su cuenta institucional. A excepción de las que tienen el siguiente mensaje: “Acceso Únicamente dentro del Campus Universitario”.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/bases-de-datos-por-titulo-0"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿La biblioteca tiene libros electrónicos?",
+    "respuesta": "Sí, la biblioteca cuenta con e-books en todas las áreas del conocimiento y se pueden consultar a través de las bases de datos como: Science Direct, Ebooks Academic Collection, Ebooks Springer, Jstor, entre otras.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/bases-de-datos-por-titulo-0"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuáles son las bases de datos de mi facultad?",
+    "respuesta": "Para verificar que bases de datos corresponden a las áreas temáticas de una facultad, ingrese a la página de la Biblioteca, en el menú desplegable Búsqueda  seleccione la opción Bases de Datos por título y luego filtre seleccionando la facultad.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/bases-de-datos-por-titulo-0"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo accedo a documentos que no están en texto completo en las bases de datos?",
+    "respuesta": "Algunos contenidos se encuentran únicamente referenciados, para obtener el documento en texto completo realice la solicitud del mismo a la Biblioteca, mediante el servicio de obtención de documentos.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo solicito una capacitación en la Biblioteca?",
+    "respuesta": "Para programar una capacitación en los servicios, recursos y/o bases de datos de la Biblioteca, debe realizar la solicitud a través de la página web en Aprender a buscar información.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Puedo solicitar una capacitación individual?",
+    "respuesta": "Sí, las capacitaciones se pueden solicitar de forma individual y grupal, cuando realice la solicitud debe indicar el número de participantes.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/aprender-buscar-informacion"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué capacitaciones ofrece la biblioteca?",
+    "respuesta": "La Biblioteca ofrece cuatro niveles de capacitación:\n\nNivel 1 Servicios y Recursos de Información, para conocer las instalaciones, los servicios y las herramientas de búsqueda.\n\nNivel 2 Estrategias de Búsqueda en Bases de Datos, para adquirir destrezas en la recuperación de información.\n\nNivel 3 Manejo de Gestores Bibliográficos, para aprender a crear bibliografías a través de administradores electrónicos\n\nNivel 4 Fuentes especializadas en investigación para tesistas y semilleros, con el fin de identificar fuentes de información científica.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/aprender-buscar-informacion"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo cito un documento?",
+    "respuesta": "Si el documento es recuperado a través de bases de datos, usted encontrará en la misma, la opción que le permita realizar la cita en los estilos más utilizados (APA, AMA, Chicago) y esta cita la puede copiar, compartir o exportar.\n\nPara administrar un número mayor de citas bibliográficas puede utilizar un gestor bibliográfico como  Refworks. Si desea aprender a utilizar esta herramienta  solicite una capacitación a través de la web de la Biblioteca.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Quiénes me apoyan en las tutorías de lectoescritura?",
+    "respuesta": "Los tutores son estudiantes previamente seleccionados por su buen desempeño académico en el área de lectoescritura. Recibieron capacitación para realizar funciones de acompañamiento propias de un tutor y para coordinar actividades con profesores.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/apoyo-la-lectoescritura"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué tipos de tutoría en lectoescritura me ofrecen?",
+    "respuesta": "Asesoría personalizada a estudiantes: trabajo entre tutor y estudiante con el apoyo de material previamente diseñado, que responde a las necesidades del solicitante.\n\nAsesoría a grupos de estudiantes: se trabaja sobre falencias comunes de hasta 8 estudiantes en una misma sesión.\n\nApoyo a profesores en el diseño de estrategias de lectoescritura: está diseñado para apoyar a un grupo grande estudiantes.\n\nDiseño y orientación de talleres en temáticas específicas: mediante trabajo en equipo, los tutores diseñan o adaptan y realizan talleres.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/apoyo-la-lectoescritura"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Dónde puedo ver la disponibilidad de citas para lectoescritura?",
+    "respuesta": "Ingresando a la web de la Biblioteca en el menú Apoyo al aprendizaje, de clic en Apoyo a la lectoescritura y revise la disponibilidad.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/apoyo-la-lectoescritura"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo pido una cita para lectoescritura?",
+    "respuesta": "Ingresando a la web de la Biblioteca en el menú Apoyo al aprendizaje, de clic en Apoyo a la lectoescritura y Reserva en línea",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Hay club de lectura en la biblioteca?",
+    "respuesta": "Sí, el Club de Lectura está a cargo de la profesora Adriana Plazas de Humanidades, en el tercer piso de la Biblioteca, todos los jueves de 9:00 a 11:00 am.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo me uno al Club de Lectura?",
+    "respuesta": "Acérquese al tercer piso de la Biblioteca los jueves de 9:00 a 11:00 am y pregunte por la profesora Adriana Plazas quien le proporcionará toda la información.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿De cuánto es el valor de la multa en la Biblioteca?",
+    "respuesta": "Depende del tipo de material bibliográfico que se haya prestado. Para consultar el valor de las multas ingrese aquí.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/multas"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué debo hacer, si se me dañó un libro de la Biblioteca? (mojado, mutilado, manchado, rayado, roto, deshojado, etc.)",
+    "respuesta": "Acérquese  a  Circulación y Préstamo, reporte el respectivo daño y  le indicarán el procedimiento a seguir.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué debo hacer en caso de pérdida o robo de un libro de la Biblioteca?",
+    "respuesta": "Acérquese a Circulación y Préstamo, reporte la pérdida o robo del libro y se le informará  el procedimiento a seguir.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo pago una multa de Biblioteca?",
+    "respuesta": "Acérquese a circulación y préstamo, solicite su recibo de pago (Este tiene fecha de vencimiento para el mismo día en que se expide), pague en cualquier sucursal de Bancolombia o en la sucursal de la Universidad y entregue el recibo pagado en circulación y préstamo.\n\nPuede solicitar el envío de su recibo por correo electrónico y/o enviar el recibo pagado por el mismo medio.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/multas"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿La multa sigue aumentado después de entregar el libro?",
+    "respuesta": "No, el sistema deja de generar multa en el momento en que se devuelve el material bibliográfico.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/multas"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cuánto tiempo tengo para pagar la multa?",
+    "respuesta": "El pago de la multa se debe realizar lo antes posible ya que su registro quedará bloqueado para acceder a préstamos y solicitudes en línea.\n\nRecuerde que el recibo para pagar la multa tiene vigencia del mismo día en que es expedido.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/multas"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Qué hacer si extravié mi recibo de pago de multa?",
+    "respuesta": "Acérquese a Circulación y Préstamo, reporte la pérdida y se le informará el procedimiento a seguir.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Cómo se buscan revistas en el catálogo en línea?",
+    "respuesta": "Ingrese a la página de la biblioteca, de clic en el menú Búsqueda y seleccione el catálogo de la Biblioteca, luego digite el título de la revista y de clic en el botón título de revista.",
+    "url": "http://www.utadeo.edu.co/es/sistema-biblioteca"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿La Biblioteca tiene revistas electrónicas?",
+    "respuesta": "Sí, luego de realizar la búsqueda por el catálogo en línea,  las revistas electrónicas tienen un hipervínculo o URL en color azul que redireccionará a la página de la revista.",
+    "url": "http://unicornio.utadeo.edu.co/"
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Las revistas tienen préstamo externo?",
+    "respuesta": "No, las revistas son de consulta interna únicamente; si desea obtener alguno de los artículos lo puede realizar por medio de Solicitud de documentos y lo recibirá escaneado en pdf.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Puedo fotocopiar las tesis?",
+    "respuesta": "No, por derechos de autor no está permitido, únicamente  se permite fotocopiar portada,  tabla de contenido o índice y la bibliografía.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿Prestan las Películas?",
+    "respuesta": "Sí, las películas se prestan por 3 horas no renovables y únicamente para consulta dentro del campus universitario, consulte las políticas de préstamo en nuestra página web.",
+    "url": ""
+  },
+  {
+    "categoria": "INFORMACIÓN GENERAL Y HORARIOS",
+    "pregunta": "¿De cuánto es la multa por retraso en las películas?",
+    "respuesta": "La multa es de $1.500 por hora, verifique los valores en nuestra página web.",
+    "url": "http://www.utadeo.edu.co/es/link/sistema-biblioteca/104046/multas"
+  }
+]
